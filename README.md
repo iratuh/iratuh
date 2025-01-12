@@ -1,10 +1,10 @@
-# Hi there, I'm Hutari! 👋
+# Hi there, I'm iratuh! 👋
 
-🚀 Aspiring Data Scientist, learning on Business Intelligence and Financial Analysis
-📍 Jakarta, Indonesia
-📧 Email: hutari.andini@ui.ac.id
-🔗 [LinkedIn](https://www.linkedin.com/in/hutariandini/)
-👨‍💻 [GitHub](https://github.com/iratuh)
+🚀 Aspiring Data Scientist, learning on Business Intelligence and Financial Analysis  
+📍 Jakarta, Indonesia  
+📧 Email: hutari.andini@ui.ac.id  
+🔗 [LinkedIn](https://www.linkedin.com)  
+👨‍💻 [GitHub](https://github.com)
 
 ## About Me 🌐
 
