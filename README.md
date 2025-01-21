@@ -1,4 +1,4 @@
-# Hi there, I'm iratuh! 👋
+# Hi there, I'm Hutari! 👋
 
 🚀 Aspiring Data Scientist, learning on Business Intelligence and Financial Analysis  
 📍 Jakarta, Indonesia  
